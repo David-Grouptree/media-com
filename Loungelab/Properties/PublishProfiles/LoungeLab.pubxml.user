@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Publish\LoungeLab</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Loungelab.dll">
+      <publishTime>01/22/2016 11:10:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>01/18/2016 14:43:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>01/18/2016 14:43:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>01/18/2016 14:43:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>01/18/2016 14:43:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>01/18/2016 14:43:19</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>01/18/2016 14:43:19</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>01/18/2016 14:43:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>01/18/2016 14:43:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>01/18/2016 14:43:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>01/18/2016 14:43:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>01/18/2016 14:43:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>01/18/2016 14:43:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>01/18/2016 14:43:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>01/18/2016 14:43:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>01/18/2016 14:43:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>01/18/2016 14:43:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>01/18/2016 14:43:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>01/18/2016 14:43:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>01/18/2016 14:43:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>01/18/2016 14:43:12</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>01/21/2016 17:33:57</publishTime>
+    </File>
+    <File Include="css/main.css">
+      <publishTime>01/22/2016 11:44:24</publishTime>
+    </File>
+    <File Include="images/dummy-image.jpg">
+      <publishTime>01/18/2016 14:59:37</publishTime>
+    </File>
+    <File Include="images/forum-drilldown-dummy.jpg">
+      <publishTime>01/19/2016 18:25:34</publishTime>
+    </File>
+    <File Include="images/forum-tab-dummy.jpg">
+      <publishTime>01/19/2016 16:40:37</publishTime>
+    </File>
+    <File Include="images/loungeLabLogo.png">
+      <publishTime>01/18/2016 14:57:47</publishTime>
+    </File>
+    <File Include="images/media.png">
+      <publishTime>01/21/2016 18:04:35</publishTime>
+    </File>
+    <File Include="images/overlay-bg.png">
+      <publishTime>01/19/2016 10:56:51</publishTime>
+    </File>
+    <File Include="includes/individuals/individual-box-item.html">
+      <publishTime>01/22/2016 12:05:31</publishTime>
+    </File>
+    <File Include="includes/individuals/individual-latest-forum.html">
+      <publishTime>01/22/2016 11:46:33</publishTime>
+    </File>
+    <File Include="includes/individuals/individual-latest-news.html">
+      <publishTime>01/22/2016 11:46:53</publishTime>
+    </File>
+    <File Include="includes/master/desktop-menu.html">
+      <publishTime>01/22/2016 10:20:23</publishTime>
+    </File>
+    <File Include="includes/master/footer.html">
+      <publishTime>01/22/2016 10:41:40</publishTime>
+    </File>
+    <File Include="includes/master/head.html">
+      <publishTime>01/20/2016 18:39:39</publishTime>
+    </File>
+    <File Include="includes/master/header.html">
+      <publishTime>01/22/2016 10:50:17</publishTime>
+    </File>
+    <File Include="includes/master/mobile-menu.html">
+      <publishTime>01/22/2016 10:21:38</publishTime>
+    </File>
+    <File Include="includes/sections/box-item-grid.html">
+      <publishTime>01/18/2016 17:45:02</publishTime>
+    </File>
+    <File Include="includes/sections/comment-box-section.html">
+      <publishTime>01/22/2016 10:59:53</publishTime>
+    </File>
+    <File Include="includes/sections/forum-drilldown-news-entry.html">
+      <publishTime>01/22/2016 11:01:26</publishTime>
+    </File>
+    <File Include="includes/sections/latest-forums.html">
+      <publishTime>01/22/2016 11:02:11</publishTime>
+    </File>
+    <File Include="includes/sections/latest-news.html">
+      <publishTime>01/22/2016 11:03:53</publishTime>
+    </File>
+    <File Include="includes/sections/poll-box.html">
+      <publishTime>01/22/2016 11:45:10</publishTime>
+    </File>
+    <File Include="includes/sections/profile-box.html">
+      <publishTime>01/22/2016 11:45:16</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>01/22/2016 11:48:07</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/18/2016 14:43:20</publishTime>
+    </File>
+    <File Include="templates/directory.aspx">
+      <publishTime>01/22/2016 10:49:17</publishTime>
+    </File>
+    <File Include="templates/forum-drilldown.aspx">
+      <publishTime>01/22/2016 11:27:16</publishTime>
+    </File>
+    <File Include="templates/homepage.aspx">
+      <publishTime>01/21/2016 18:09:57</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/22/2016 11:10:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
