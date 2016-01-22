@@ -1,0 +1,36 @@
+﻿<!--#include virtual="/includes/master/mobile-menu.html" -->
+
+<script>
+    $(document).ready(function(){
+        $(".mobile-menu").click(function () {
+            $(".slide-menu-wrapper").css('display', 'block');
+            $(".slide-menu-wrapper").animate({ left: '482px' }, 400);
+
+        });
+
+        $(".close-trigger").click(function () {
+            $(".slide-menu-wrapper").animate({ left: '-482px' }, 400);
+
+            
+        });
+    });
+</script>
+
+
+
+<header>   
+    <div class="container">
+        <div class="header-wrapper">
+            <div class="logo-wrapper">
+                <a href="" title=""><img alt="LoungeLab" src="/images/media.png"></a>
+            </div>
+            <div class="mobile-menu">
+                <span class="fa fa-bars"></span>
+            </div>
+            <!--#include virtual="/includes/master/desktop-menu.html" -->
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</header>
+
+
